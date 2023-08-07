@@ -32,5 +32,5 @@ substitutions:
     _SERVICE_REGION   : northamerica-northeast1
     _SERVICE_PROJECT  : tfgo
     _SERVICE_NAME     : my-docker-app-prod
-    _DOCKER_REGISTRY  : denisdi-docker
+    _DOCKER_REGISTRY  : denidi-repo
     _DOCKER_IMAGENAME : myapp-prod
