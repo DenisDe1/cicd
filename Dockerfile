@@ -5,7 +5,7 @@
 
 FROM ubuntu:22.04
 
-RUN apt-get -y update
+RUN apt -y update
 RUN apt-get -y install apache2
 
 RUN echo 'Docker Image on CloudRun of Denis!<br>'   > /var/www/html/index.html
