@@ -32,6 +32,6 @@ substitutions:
     _SERVICE_REGION   : northamerica-northeast1
     _SERVICE_PROJECT  : ubuntu2204
     _SERVICE_NAME     : my-docker-app-staging
-    _DOCKER_REGISTRY  : cicd
+    _DOCKER_REGISTRY  : denisdi-docker
     _DOCKER_IMAGENAME : myapp-staging
 
